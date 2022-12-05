@@ -1,0 +1,135 @@
+body {
+    margin: 0px;
+}
+
+/* container lateral */
+body-container, button{
+    margin-top: 70px;
+    margin-left: 150px;
+}
+
+.tikfont, h2{
+    margin-left: 10px;
+    display: inline-block;
+    font-family: ProximaNova,Arial,Tahoma,PingFangSC,sans-serif;
+    font-size: 14px;
+}
+
+.seguindo {
+    margin-top: -60px;
+}
+
+.video {
+    margin-top: -60px;
+}
+
+.paragrafo {
+    margin-top: 10px;
+    margin-left: 150px;
+    color: rgba(22, 24, 35, .5);
+    font-size: 16px;
+    line-height: 22px;
+}
+
+.ContasSugeridas {
+    margin-left: 150px;
+    color: rgba(22, 24, 35, .5);
+    font-size: 16px;
+    line-height: 22px;
+}
+
+.btn {
+    border-radius: 6px;
+    border-color: rgba(254, 44, 85, 1);
+    color: rgba(254, 44, 85, 1);
+    background-color: rgba(255, 255, 255, 1);
+    height: 30px;
+    border-width: 1px;
+    border-style: solid;
+    border-radius: 4px;
+    min-width: 168px;
+    min-height: 48px;
+    font-size: 18px;
+    line-height: 25px;
+    font-weight: 600;
+    font-family: SofiaPro,PingFangSC,sans-serif;
+    display: flex;
+    position: relative;
+    align-items: center;
+    -webkit-box-pack: center;
+    justify-content: center;
+    padding: 6px 8px;
+    user-select: none;
+    cursor: pointer;
+    box-sizing: border-box;
+    margin-top: 20px;
+    width: 292px;
+}
+
+.Divider {
+    width: 310px;
+    margin-bottom: 500px;
+    position: absolute;
+    height: 1px;
+    left: 130px;
+}
+
+.DividerEspaco {
+    width: 310px;
+    position: absolute;
+    height: 1px;
+    left: 130px;
+}
+
+.sugeridas {
+    padding: 0 8px;
+    margin-bottom: 8px;
+    font-size: 14px;
+    line-height: 20px
+}
+
+.tiktok-1mo2fkg-DivUserLinkContainer {
+    padding: 8px;
+    display: flex;
+    position: relative;
+    border-radius: 10px;
+}
+
+.navfotos {
+    color: rgba(22, 24, 35, .75);
+    font-family: ProximaNova,Arial,Tahoma,PingFangSC,sans-serif;
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 20px;
+    position: relative;
+    margin-left: 150px;
+}
+
+.nomeh4 {
+    color: rgb(22, 24, 35);
+    font-family: SofiaPro, Arial, Tahoma, PingFangSC, sans-serif;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 22px;
+    margin-top: -2px;
+    max-width: 260px;
+    text-overflow: ellipsis;
+    overflow: hidden;
+    white-space: nowrap;
+    margin-left: 10px;
+}
+
+.Sobrenome {
+    color: rgba(22, 24, 35, 0.75);
+    font-family: ProximaNova, Arial, Tahoma, PingFangSC, sans-serif;
+    font-weight: 400px;
+    font-weight: 400;
+    font-size: 12;
+    font-size: 12px;
+}
+
+
+
+
+
+
